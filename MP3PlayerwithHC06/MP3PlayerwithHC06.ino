@@ -1,5 +1,5 @@
 /*
- * MP3 Player with DFPlayer Mini, Bluetooth (HC-05) Module
+ * MP3 Player with DFPlayer Mini, Bluetooth (HC-06) Module
  * Made by Darkhost (darkhost225@gmail.com)
  * Required Library : SoftwareSerial, DFRobotDFPlayerMini
  * Last Update : 2018.06.22
